@@ -246,6 +246,9 @@ header {
   padding-top: 50px;
 }
 @media (max-width: 768px) {
+  .foot3 {
+    display: none;
+  }
   .no {
     display: none;
   }
@@ -377,6 +380,9 @@ header {
   }
 }
 @media (max-width: 1470px) {
+  .foot3 {
+    display: none;
+  }
   .no {
     display: none;
   }
@@ -410,6 +416,9 @@ header {
   }
 }
 @media (max-width: 420px) {
+  .foot3 {
+    display: none;
+  }
   .like {
     display: none;
   }
@@ -421,6 +430,12 @@ header {
   }
 }
 @media (max-width: 922px) {
+  .foot3 {
+    display: none;
+  }
+  .foot3 {
+    display: none;
+  }
   .build {
     flex-direction: column;
   }
